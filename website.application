@@ -1,0 +1,2 @@
+zuul.routes.search.path=/api/search/**
+zuul.routes.search.serviceId=search
