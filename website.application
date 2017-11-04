@@ -4,4 +4,4 @@ zuul.host.connect-timeout-millis=-1
 zuul.host.socket-timeout-millis=-1
 
 zuul.routes.search.serviceId=search
-zuul.routes.search.path=/api/**
+zuul.routes.search.path=/api/search/**
