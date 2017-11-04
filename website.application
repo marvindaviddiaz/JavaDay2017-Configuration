@@ -1,8 +1,0 @@
-spring.application.name=website
-eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
-
-zuul.host.connect-timeout-millis=-1
-zuul.host.socket-timeout-millis=-1
-
-zuul.routes.search-gateway.serviceId=search
-zuul.routes.search-gateway.path=/api/search/**
